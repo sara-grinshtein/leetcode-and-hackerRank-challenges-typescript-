@@ -1,1 +1,1 @@
-# leetcode-and-hackerRank-challenges-typescript
+# leetcode-and-hackerRank-challenges-JavaScipt
